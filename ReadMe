@@ -1,0 +1,27 @@
+
+Asignación de Roles y Planificación de Tareas
+Proyecto: Desarrollo de una Aplicación para la Gestión de Reservas en un Hotel
+Equipo:
+
+    - Nicolás Cruz
+    - Mateo Guerrero
+    - Gabriel Taipe
+    - Yair Cardona
+
+Roles Asignados:
+    - Mateo Guerrero – Diseño de Clases:
+    Responsable de estructurar el sistema utilizando principios de programación orientada a objetos. Se encargará del
+    diseño inicial de las clases principales: Hotel, Habitación, y Reserva.
+
+    - Nicolás Cruz – Codificación:
+    Encargado de implementar las clases diseñadas, programando las funcionalidades básicas y colaborando con Gabriel en
+    desarrollo del sistema.
+
+    - Gabriel Taipe – Codificación:
+    Trabajará junto a Nicolás en la implementación del código, asegurando que se sigan buenas prácticas y se cumplan los
+    requisitos funcionales.
+
+    - Yair Cardona – Documentación y Pruebas:
+    Será responsable de documentar el funcionamiento del sistema, redactar los comentarios necesarios y preparar la
+    evidencia (capturas o video) del funcionamiento del programa.
+
