@@ -1,6 +1,4 @@
-public class Reserva {
-    import java.time.LocalDate;
-
+import java.time.LocalDate;
     public class Reserva {
         private String nombreCliente;
         private Habitacion habitacion;
