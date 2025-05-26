@@ -12,6 +12,7 @@ public class Main {
         System.out.println("¿Habitación " + numero + " disponible?: " + hotel.hayDisponibilidad(numero));
 
         hotel.crearReserva("Pepe Grillo", numero, LocalDate.of(2025, 6, 1), LocalDate.of(2025, 6, 5));
+        System.out.println("\nReserva realizada con exito.\n");
 
         System.out.println("¿Habitación " + numero + " disponible?: " + hotel.hayDisponibilidad(numero));
 
